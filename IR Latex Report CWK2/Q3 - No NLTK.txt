@@ -1,0 +1,72 @@
+Q3 : Where can I get exam support?
+
+With NLTK:
+
+  ANSWER:  get
+Document Frequency:   40
+Collection Frequency:  72
+
+
+  ANSWER:  exam
+Document Frequency:   15
+Collection Frequency:  50
+
+
+  ANSWER:  support
+Document Frequency:   450
+Collection Frequency:  3334
+
+Ordered list of URLs:
+0.1980984846425002  portal.uea.ac.uk/planningoffice/biu/reporting/operational-reporting/exam-board-reports
+0.18730778073662505  portal.uea.ac.uk/planningoffice/biu/reporting/operational-reporting
+0.1646618519632635  portal.uea.ac.uk/learning-and-teaching/staff/assessment/exams
+0.13860988407153949  portal.uea.ac.uk/learning-and-teaching/staff/assessment/exams/timetabling
+0.12661945713786998  portal.uea.ac.uk/student-support-service/wellbeing/disability/whilst-you-are-here
+0.10665431541513375  portal.uea.ac.uk/student-support-service/wellbeing/disability/examination-arrangements
+0.08454157526456708  portal.uea.ac.uk/planningoffice/biu/reporting/cant-find-it/a-z
+0.08164991995422005  portal.uea.ac.uk/planningoffice/biu/reporting/cant-find-it/topic
+0.0715671487703049  portal.uea.ac.uk/learning-and-teaching/staff/assessment
+0.06998494843961418  portal.uea.ac.uk/partnerships-office/people1
+
+WITHOUT NLTK:
+
+ ANSWER:  where
+Document Frequency:   441
+Collection Frequency:  564
+
+
+  ANSWER:  can
+Document Frequency:   207
+Collection Frequency:  562
+
+
+  ANSWER:  i
+Document Frequency:   441
+Collection Frequency:  680
+
+
+  ANSWER:  get
+Document Frequency:   52
+Collection Frequency:  83
+
+
+  ANSWER:  exam
+Document Frequency:   12
+Collection Frequency:  49
+
+
+  ANSWER:  support
+Document Frequency:   441
+Collection Frequency:  3239
+
+Ordered list of URLs:
+0.21637015833720752  portal.uea.ac.uk/planningoffice/biu/reporting/operational-reporting/exam-board-reports
+0.20096683433892473  portal.uea.ac.uk/planningoffice/biu/reporting/operational-reporting
+0.15939654095956068  portal.uea.ac.uk/learning-and-teaching/staff/assessment/exams/invigilation
+0.15432736678751877  portal.uea.ac.uk/learning-and-teaching/staff/assessment/exams/marking
+0.10683975402348911  portal.uea.ac.uk/learning-and-teaching/staff/external-examiners
+0.08350743015260972  portal.uea.ac.uk/learning-and-teaching/staff/assessment/exams/board-of-examiners
+0.07960607480046486  portal.uea.ac.uk/partnerships-office/people1
+0.07287358915618271  portal.uea.ac.uk/learning-and-teaching/docs/assessment
+0
+

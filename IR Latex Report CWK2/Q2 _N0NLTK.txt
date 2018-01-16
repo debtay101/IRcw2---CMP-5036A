@@ -1,0 +1,74 @@
+Q2 : Where is there a coffee shop on Campus?
+
+WITH NLTK:
+
+ ANSWER:  coffee
+Document Frequency:   1
+Collection Frequency:  1
+
+
+  ANSWER:  shop
+Document Frequency:   6
+Collection Frequency:  9
+
+
+  ANSWER:  campus
+Document Frequency:   450
+Collection Frequency:  3556
+
+Ordered list of URLs:
+0.10299375523909954  portal.uea.ac.uk/catering/cafes-and-restaurants
+0.09942359636796211  portal.uea.ac.uk/campus-kitchen
+0.09891270829166673  portal.uea.ac.uk/multifaith
+0.08566438879732884  portal.uea.ac.uk/student-home
+0.07723197793810421  portal.uea.ac.uk/estates/help-centre/opening-times
+0.07471207027523576  portal.uea.ac.uk/estates/space-management/moves-management
+0.06279212571158113  portal.uea.ac.uk/estates/living-on-campus/post
+0.0559012190327527  portal.uea.ac.uk/arm/campus-news/campus-community/reward-gateway
+0.054984816844557555  portal.uea.ac.uk/web/hub/staffassociation/members-discounts/discount-list/furniture-and-homewares
+0.041748654063873555  portal.uea.ac.uk/estates/help-centre/faqs-questions
+0.03984108544275854  portal.uea.ac.uk/learning-and-teaching/students/the-basics/directions
+
+WITHOUT NLTK:
+
+  ANSWER:  where
+Document Frequency:   441
+Collection Frequency:  564
+
+  ANSWER:  is
+Document Frequency:   442
+Collection Frequency:  1663
+
+  ANSWER:  a
+Document Frequency:   441
+Collection Frequency:  3634
+
+  ANSWER:  coffee
+Document Frequency:   4
+Collection Frequency:  4
+
+  ANSWER:  shop
+Document Frequency:   8
+Collection Frequency:  11
+
+  ANSWER:  on
+Document Frequency:   441
+Collection Frequency:  1678
+
+  ANSWER:  campus
+Document Frequency:   441
+Collection Frequency:  3525
+
+Ordered list of URLs:
+0.13711251883199216  portal.uea.ac.uk/multifaith
+0.08301997990323459  portal.uea.ac.uk/student-home
+0.05935128157905642  portal.uea.ac.uk/estates/living-on-campus/post
+0.052509045415921  portal.uea.ac.uk/arm/campus-news/campus-community/reward-gateway
+0.04270319026296545  portal.uea.ac.uk/library/subject-guides/medicine
+0.04064417769844089  portal.uea.ac.uk/library/subject-guides/health-sciences
+0.04064417769844089  portal.uea.ac.uk/web/hub/library/subject-guides/health-sciences
+1.9005918150917738e-07  portal.uea.ac.uk/arm/campus-news/campus-community
+1.5165641606553977e-07  portal.uea.ac.uk/en/staff-mobility/training-staff-mobility
+1.5069445804526825e-07  portal.uea.ac.uk/arm/campus-news/events
+
+

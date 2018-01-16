@@ -1,0 +1,113 @@
+Enter your question: What is a postgraduate degree?
+
+With NLTK & TFIDF
+
+  ANSWER:  postgraduate
+Document Frequency:   450
+Collection Frequency:  1053
+
+  ANSWER:  degree
+Document Frequency:   18
+Collection Frequency:  48
+
+Ordered list of URLs:
+0.14036566438661138  portal.uea.ac.uk/student-support-service/travel-and-expeditions
+0.13189530668782848  portal.uea.ac.uk/graduationoffice/honorary-graduate-nominations
+0.1264995507269985  portal.uea.ac.uk/postgraduate-research/pgr-regulations-and-forms
+0.10451492245101877  portal.uea.ac.uk/learning-and-teaching/students/coursework
+0.09630846360754139  portal.uea.ac.uk/learning-and-teaching/students/results-regulations/gpa
+0.08961129627184698  portal.uea.ac.uk/postgraduate-research/concessions
+0.06938694666121076  portal.uea.ac.uk/postgraduate-research/supervisory-meetings
+0.06785207723461917  portal.uea.ac.uk/learning-and-teaching/docs/regulations-awards
+0.06343497640724616  portal.uea.ac.uk/learning-and-teaching/faq
+0.063251349006214  portal.uea.ac.uk/learning-and-teaching/students/results-regulations/compensation/continuing-students
+0.06076721951111632  portal.uea.ac.uk/learning-and-teaching/students/assessment/fair-marks
+
+
+Without NLTK
+
+  ANSWER:  what
+Document Frequency:   118
+Collection Frequency:  265
+
+
+  ANSWER:  is
+Document Frequency:   450
+Collection Frequency:  1751
+
+
+  ANSWER:  a
+Document Frequency:   450
+Collection Frequency:  3401
+
+
+  ANSWER:  postgraduate
+Document Frequency:   450
+Collection Frequency:  1053
+
+
+  ANSWER:  degree
+Document Frequency:   18
+Collection Frequency:  48
+
+Ordered list of URLs:
+0.12958757709462024  portal.uea.ac.uk/student-support-service/travel-and-expeditions
+0.12775293412154493  portal.uea.ac.uk/postgraduate-research/pgr-regulations-and-forms
+0.12176758447533285  portal.uea.ac.uk/graduationoffice/honorary-graduate-nominations
+0.10390382006383485  portal.uea.ac.uk/postgraduate-research/concessions
+0.09648963988895028  portal.uea.ac.uk/learning-and-teaching/students/coursework
+0.0889133443191526  portal.uea.ac.uk/learning-and-teaching/students/results-regulations/gpa
+0.07849932842309582  portal.uea.ac.uk/postgraduate-research/supervisory-meetings
+0.07008450553984051  portal.uea.ac.uk/learning-and-teaching/faq
+0.06988163824461115  portal.uea.ac.uk/learning-and-teaching/students/results-regulations/compensation/continuing-students
+0.06264200614731347  portal.uea.ac.uk/learning-and-teaching/docs/regulations-awards
+0.0567
+
+NO NLTK or TFIDF
+INPUT QUERY: what is a postgraduate degree?
+
+  TOKEN REPLY:  what
+
+Document Freq:   118
+Collection Freq:  265
+
+
+  TOKEN REPLY:  is
+
+Document Freq:   450
+Collection Freq:  1751
+
+   ANSWER:  a
+
+Document Freq:   450
+Collection Freq:  3401
+
+
+  ANSWER:  postgraduate
+
+Document Freq:   450
+Collection Freq:  1053
+
+
+  ANSWER:  degree
+
+Document Freq:   18
+Collection Freq:  48
+
+0 portal.uea.ac.uk/
+0 portal.uea.ac.uk/student-support-service/disability
+0 portal.uea.ac.uk/estates/security
+0 portal.uea.ac.uk/estates/post-and-portering
+0 portal.uea.ac.uk/estates/building-management
+0 portal.uea.ac.uk/arm/campus-news/campus-community
+0 portal.uea.ac.uk/a-to-z-index
+0 portal.uea.ac.uk/arm/the-uea-plan-2016-20/our-vision-2030-goals-for-institutional-success
+0 portal.uea.ac.uk/multifaith
+0 portal.uea.ac.uk/estates/space-management
+0 portal.uea.ac.uk/committee-office
+0 portal.uea.ac.uk/ren/find-funding
+0 portal.uea.ac.uk/arm/campus-news/student
+0 portal.uea.ac.uk/student-support-service/finance
+0 portal.uea.ac.uk/arm/campus-news/campus-community/reward-gateway
+0 portal.uea.ac.uk/campus-home
+0 portal.uea.ac.uk/cpd-development-fund

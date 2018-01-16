@@ -1,0 +1,25 @@
+\begin{thebibliography}{}
+
+\bibitem[Baeza-Yates et~al., 1999]{baeza1999}
+Baeza-Yates, R., Ribeiro-Neto, B., et~al. (1999).
+\newblock {\em Modern information retrieval}, volume 463.
+\newblock ACM press New York.
+
+\bibitem[Bird, 2006]{bird2006nltk}
+Bird, S. (2006).
+\newblock Nltk: the natural language toolkit.
+\newblock In {\em Proceedings of the COLING/ACL on Interactive presentation
+  sessions}. Association for Computational Linguistics.
+
+\bibitem[Liu, 2015]{tfidf}
+Liu, E. (2015).
+\newblock Tf-idf, term frequency-inverse document frequency.
+
+\bibitem[Mogotsi, 2010]{DBLP:journals/ir/Mogotsi10}
+Mogotsi, I.~C. (2010).
+\newblock Christopher d. manning, prabhakar raghavan, and hinrich
+  sch{\"{u}}tze: Introduction to information retrieval - cambridge university
+  press, cambridge, england, 2008, 482 pp, {ISBN:} 978-0-521-86571-5.
+\newblock {\em Inf. Retr.}, 13.
+
+\end{thebibliography}
